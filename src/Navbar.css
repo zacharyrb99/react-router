@@ -1,0 +1,15 @@
+.Navbar {
+    background-color: black;
+    padding: 1rem;
+}
+
+.Navbar a {
+    color: white;
+    margin: 1rem;
+    text-decoration: none;
+}
+
+.Navbar .active {
+    font-size: larger;
+    text-decoration: underline;
+}

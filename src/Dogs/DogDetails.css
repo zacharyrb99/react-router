@@ -1,0 +1,10 @@
+.DogDetails img {
+    border-radius: 20px;
+    width: 150px;
+    height: 150px;
+}
+
+.DogDetails li {
+    width: 35vw;
+    margin: auto;
+}
